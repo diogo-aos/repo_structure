@@ -36,7 +36,7 @@
 - [Thesis Writing](https://github.com/diogo-aos/ThesisWriting)
 - [Masters Code](https://github.com/diogo-aos/masters_code)
 - [Masters Code (final)](https://github.com/diogo-aos/masters_final)
-https://github.com/diogo-aos/scipy_numba
+- [Experimentation accelerating Scipy with Numba](https://github.com/diogo-aos/scipy_numba)
 
 # Online presence
  - [Github Page with main webste](https://github.com/diogo-aos/diogo-aos.github.io)
@@ -48,9 +48,9 @@ https://github.com/diogo-aos/scipy_numba
 # Utilities
 ## Personal
  - [Google Calendar Event Corrector script](https://github.com/diogo-aos/event_corrector)
- - [Personal Finance expense split automation]https://github.com/diogo-aos/JaySplit
+ - [Personal Finance expense split automation](https://github.com/diogo-aos/JaySplit)
  - [Static website to manage bookmarks](https://github.com/diogo-aos/LinkCity)
- - [Application to log work)[https://github.com/diogo-aos/logwork]
+ - [Application to log work](https://github.com/diogo-aos/logwork)
  - [Several cheatsheets](https://github.com/diogo-aos/cheatsheets)
  - [SublimeText Journaling Extension](https://github.com/diogo-aos/JournalST)
  - [Personal utilities and configs](https://github.com/diogo-aos/utils)
